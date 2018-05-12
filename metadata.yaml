@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35576'
     url: http://www.gutenberg.org/2009/agents/35576
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31962#The-Ethical-Way
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-04-12'
 gutenberg_type: Text
